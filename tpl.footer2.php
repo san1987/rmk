@@ -1,0 +1,3 @@
+<?
+
+include "tpl.footer.php";

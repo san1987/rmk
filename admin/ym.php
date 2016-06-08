@@ -1,0 +1,1 @@
+Ссылка на прайслист: <a href='http://<?=$_SERVER["HTTP_HOST"]?>/rmk/admin/price.php'> http://<?=$_SERVER["HTTP_HOST"]?>/rmk/admin/price.php</a><br>
